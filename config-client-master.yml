@@ -1,0 +1,3 @@
+springcloud:
+ book:
+  config: config-client-master.yml 1

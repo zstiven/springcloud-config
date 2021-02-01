@@ -1,3 +1,0 @@
-springcloud:
- book:
-  config: config-info-master.yml 1234555777
