@@ -1,3 +1,3 @@
 springcloud:
  book:
-  config: config-client-master.yml 1
+  config: master
